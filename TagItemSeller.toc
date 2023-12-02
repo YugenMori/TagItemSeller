@@ -1,0 +1,18 @@
+## Interface: 100200
+## Title: Tag|cffE1AD01ItemSeller|r
+## Version: 1.0.0.1_Classic_Dragonflight
+## Author: Yugen
+## Notes-enUS: Simple Addon to Tag a Item to Be Selled
+## Notes-ptBR: Addon simples para marcar um item a ser vendido
+## Notes-deDE: Einfaches Addon zum Markieren eines zu verkaufenden Artikels
+## Notes-enGB: Simple Addon to Tag a Item to Be Selled
+## Notes-esES: Complemento simple para etiquetar un artículo para ser vendido
+## Notes-esMX: Complemento simple para etiquetar un artículo para ser vendido
+## Notes-frFR: Addon simple pour marquer un article à vendre
+## Notes-itIT: Semplice addon per taggare un articolo da vendere
+## Notes-koKR: 판매할 항목에 태그를 지정하는 간단한 애드온
+## Notes-ruRU: Простой аддон для пометки товара для продажи
+## Notes-zhCN: 用于标记要销售的商品的简单插件
+## Notes-zhTW: 用於標記要銷售的商品的簡單外掛程式
+
+TagItemSeller.lua
