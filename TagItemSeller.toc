@@ -1,6 +1,6 @@
-## Interface: 100205
+## Interface: 100207
 ## Title: Tag|cffE1AD01ItemSeller|r
-## Version: 10.2.5.1_Classic_Dragonflight
+## Version: 10.2.7.1_Classic_Dragonflight
 ## Author: Yugen
 ## Notes-enUS: Simple Addon to Tag a Item to Be Selled
 ## Notes-ptBR: Addon simples para marcar um item a ser vendido
@@ -14,6 +14,7 @@
 ## Notes-ruRU: Простой аддон для пометки товара для продажи
 ## Notes-zhCN: 用于标记要销售的商品的简单插件
 ## Notes-zhTW: 用於標記要銷售的商品的簡單外掛程式
-##SavedVariables: SellTaggerFrame, itemHyperlinks
+## SavedVariables: SellTaggerFrame, itemHyperlinks
+## IconTexture: Interface\AddOns\TagItemSeller\textures\extra\logo\tagitemseller
 
 TagItemSeller.lua
