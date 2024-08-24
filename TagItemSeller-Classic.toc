@@ -1,6 +1,6 @@
 ## Interface: 11503
 ## Title: Tag|cffE1AD01ItemSeller|r
-## Version: 11.0.0.1_Classic_TWW
+## Version: 11.0.2.1_Classic_TWW
 ## Author: Yugen
 ## Notes-enUS: Simple Addon to Tag a Item to Be Selled
 ## Notes-ptBR: Addon simples para marcar um item a ser vendido
